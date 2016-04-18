@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="KWIC.aspx.cs" Inherits="KWIC___CloudApp.KWIC" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="KWIC.aspx.cs" Inherits="KWIC___CloudApp.KWIC" Async="true"%>
 
 <!DOCTYPE html>
 
@@ -26,6 +26,9 @@
         <br />
         <br />
         <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Index" Width="500px" />
+        
+        <br/>
+        <asp:Button ID="Button3" runat="server" OnClick="Button3_Click" Text="Clear" Width="500px" />
        
     &nbsp;
        

@@ -18,3 +18,23 @@ c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudA
 c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\obj\Debug\KWIC - CloudApp.csprojResolveAssemblyReference.cache
 c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\obj\Debug\KWIC - CloudApp.dll
 c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\obj\Debug\KWIC - CloudApp.pdb
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\obj\Debug\KWIC - CloudApp.csprojResolveAssemblyReference.cache
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\obj\Debug\KWIC - CloudApp.dll
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\obj\Debug\KWIC - CloudApp.pdb
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\roslyn\csc.exe
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\roslyn\System.Collections.Immutable.dll
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\roslyn\vbc.exe
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\roslyn\VBCSCompiler.exe
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\roslyn\VBCSCompiler.exe.config
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\KWIC - CloudApp.dll.config
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\KWIC - CloudApp.dll
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\KWIC - CloudApp.pdb
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SAD\KWIC_CloudApp\KWIC - CloudApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
