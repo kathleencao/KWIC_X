@@ -1,0 +1,20 @@
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\roslyn\csc.exe
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\roslyn\vbc.exe
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\roslyn\VBCSCompiler.exe
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\KWIC - CloudApp.dll.config
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\KWIC - CloudApp.dll
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\KWIC - CloudApp.pdb
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\obj\Debug\KWIC - CloudApp.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\obj\Debug\KWIC - CloudApp.dll
+c:\users\jon\documents\visual studio 2015\Projects\KWIC - CloudApp\KWIC - CloudApp\obj\Debug\KWIC - CloudApp.pdb
